@@ -2,7 +2,7 @@ Created parent class to access all the teaching examples for Computer Science 20
 Created with JavaScript, Java, and HTML.
 
 Link to repos: 
-https://github.com/antonrou/CSAAllUnits 
+https://github.com/antonrou/CSAAllUnits
 https://github.com/antonrou/AllUnitsTeacher
 
 Link to Teaching Examples sites:
