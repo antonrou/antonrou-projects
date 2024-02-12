@@ -1,4 +1,4 @@
-Created parent class to access all the teaching examples for Computer Science 20 and Computer Science 30 for CODETRAIN. Also created HTML webpage.
+Created parent class to access all the teaching examples for Computer Science 20 and Computer Science 30 Alberta Curriculum for CODETRAIN. Also created HTML webpage.
 Created with JavaScript, Java, and HTML.
 
 Link to repos: 
