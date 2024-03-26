@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/ubuntu/Host_Folder/full_tank-antonrou/soln/full_tank.py", line 7, in <module>
+    stations = list(map(int,location.split(" ")))
+ValueError: invalid literal for int() with base 10: ''
+
+Expected file "test-cases/as-274-21-full_tank.py-test/Expected/002-stderr.txt" has no output file match
