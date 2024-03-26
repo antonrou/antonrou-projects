@@ -1,0 +1,28 @@
+Name: Anton Roupassov-Ruiz
+SID: 1800957
+CCID: roupasso
+AnonID: 1000409647
+CMPUT 274, Fall 2023
+ 
+Assessment: Assignment #2
+
+Running instructions: In the directory containing the files huffman.py, decompress.py, compress.py, bitio.py, util.py,and a Makefile , use the commands make clean and make test.
+
+Notes and Assumptions:none
+    Acknowledgements: 
+    Help received for all of compress function from TAs Sergey and Timothy on December 4, 2023
+    Help received for decode byte function from M. Leontiev on lines 42-45
+
+# NOTE: Do NOT changes lines 1 to 4, *except* to fill in the "xyz" information
+
+# Fill in with any other information required in the
+#	Code Submissions Guideline (CSG).
+# If there is a difference between the format above and the CSG,
+#	then please use the format above.
+
+
+# NOTE: Do NOT changes lines 1 to 4, *except* to fill in the "xyz" information
+# Fill in with any other information required in the
+#	Code Submissions Guideline (CSG).
+# If there is a difference between the format above and the CSG,
+#	then please use the format above.
