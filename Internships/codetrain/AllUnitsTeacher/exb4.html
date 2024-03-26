@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link href="indexstyle.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+	<div>
+		<h2>Example 4 - OSI</h2>
+        <a href="index.html">Back to Home</a><br>
+	</div>
+
+	</body>
+</html>
+
+<div>
+
+<!doctype html>
+<html>
+	<head>
+  	<title>OSI</title>
+  	<link rel ="stylesheet" href="StyleSheet2.css">
+     	</head>
+	<body>
+		
+    <h1 class ="mainHead">Open Systems Interconnection (OSI) Model</h1>
+	<center><img src ="images/OSI-MODEL.jpg" class="imageFormat"></center>
+      
+    <a href="#jump">Jump to TCP / IP</a>  
+        
+	<p>The Open Systems Interconnection (OSI) model defines a networking framework to implement protocols in layers, with control passed from one layer to the next. It is primarily used today as a teaching tool. It conceptually divides computer network architecture into 7 layers in a logical progression. The lower layers deal with electrical signals, chunks of binary data, and routing of these data across networks. Higher levels cover network requests and responses, representation of data, and network protocols as seen from a user's point of view. <br><br>The OSI model was originally conceived as a standard architecture for building network systems and indeed, many popular network technologies today reflect the layered design of OSI.</p>
+  	
+	<h4 class ="subHead">Physical Layer</h4>
+      	<p>At Layer 1, the Physical layer of the OSI model is responsible for ultimate transmission of digital data bits from the Physical layer of the sending (source) device over network communications media to the Physical layer of the receiving (destination) device. Examples of Layer 1 technologies include Ethernet cables and Token Ring networks. Additionally, hubs and other repeaters are standard network devices that function at the Physical layer, as are cable connectors. <br>At the Physical layer, data are transmitted using the type of signaling supported by the physical medium: electric voltages, radio frequencies, or pulses of infrared or ordinary light.</p>
+   	<h4 class ="subHead">Data Link Layer</h4>
+          	<p>When obtaining data from the Physical layer, the Data Link layer checks for physical transmission errors and packages bits into data "frames". The Data Link layer also manages physical addressing schemes such as MAC addresses for Ethernet networks, controlling access of any various network devices to the physical medium. Because the Data Link layer is the single most complex layer in the OSI model, it is often divided into two parts, the "Media Access Control" sublayer and the "Logical Link Control" sublayer.</p>
+   	<h4 class ="subHead" >Network Layer</h4>
+           	<p id ="bground">The Network layer adds the concept of routing above the Data Link layer. When data arrives at the Network layer, the source and destination addresses contained inside each frame are examined to determine if the data has reached its final destination. If the data has reached the final destination, this Layer 3 formats the data into packets delivered up to the Transport layer. Otherwise, the Network layer updates the destination address and pushes the frame back down to the lower layers.<br>To support routing, the Network layer maintains logical addresses such as IP addresses for devices on the network. The Network layer also manages the mapping between these logical addresses and physical addresses. In IP networking, this mapping is accomplished through the Address Resolution Protocol (ARP).</p>
+   	<h4 class ="subHead">Transport Layer</h4>
+          	<p>The Transport Layer delivers data across network connections. TCP is the most common example of a Transport Layer 4 network protocol. Different transport protocols may support a range of optional capabilities including error recovery, flow control, and support for re-transmission.</p>
+   	<h4 class ="subHead" >Session Layer</h4>
+          	<p>The Session Layer manages the sequence and flow of events that initiate and tear down network connections. At Layer 5, it is built to support multiple types of connections that can be created dynamically and run over individual networks.</p>
+   	<h4 class ="subHead" >Presentation Layer</h4>
+          	<p>The Presentation layer is the simplest in function of any piece of the OSI model. At Layer 6, it handles syntax processing of message data such as format conversions and encryption / decryption needed to support the Application layer above it.</p>
+   	<h4 class ="subHead" >Application Layer</h4>
+           	<p>The Application layer supplies network services to end-user applications. Network services are typically protocols that work with user's data. For example, in a Web browser application, the Application layer protocol HTTP packages the data needed to send and receive Web page content. This Layer 7 provides data to (and obtains data from) the Presentation layer.</p>
+  	<p >The entire content is directly copied from:<a href="https://www.lifewire.com/layers-of-the-osi-model-illustrated-818017" target="_blank">https://www.lifewire.com/layers-of-the-osi-model-illustrated-818017 </a></p>
+	<h2 id ="jump">TCP/IP</h2>
+	<p>TCP/IP model is based on standard protocols around which the Internet has developed. It is a communication protocol, which allows connection of hosts over a network. TCP/IP model in many ways is an implementation of the OSI model.</p>
+  	
+<center><img src="images/TCP.jpg" class ="imageFormat"></center>
+  	
+	</body>
+
+
+</div>

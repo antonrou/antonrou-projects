@@ -1,0 +1,97 @@
+body {
+    background-color: #591902;
+    
+}
+h1,h2{
+    color: aqua;
+    
+    
+}
+p{
+    color: darkgray;
+}
+
+/*Here we set the default styles for all Divs without IDs or Classes*/  
+div{
+    border: 3px solid black;
+    background-color: saddlebrown;
+    border-radius: 10px;
+    padding-left: 15px;
+    width: 60%;
+    box-shadow: 5px 7px;
+    
+    
+    
+}
+
+/*The # is how you set up an ID style  */
+#intro{
+    background-color: darkslategrey;
+    position: fixed;
+    right: 50px;
+    bottom: 80px;
+    width: 30%
+    
+}
+
+#buttoncontainer{
+    background-color: antiquewhite;
+    width: 80%;
+    margin: 5px;
+   
+   
+}
+
+/*The . (period) is how you set up a class style  */
+.inner{
+   border: 1px solid blue;
+    background-color: burlywood;
+    color:black;
+    width:30%;
+    box-shadow: 5px 10px;
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: top;
+    
+    opacity: 1;
+}
+
+/*And here is a cool HTML5 code for adding a special property called hover for a particular class  */
+.inner:hover{
+    opacity: 0.2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

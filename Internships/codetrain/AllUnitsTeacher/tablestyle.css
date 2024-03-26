@@ -1,0 +1,29 @@
+body{
+    
+	
+	background-image: url("images/texture1.jpg"); 
+
+}
+
+div{
+    
+    border: 3px dotted black;
+    width: 70%;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 7px grey;
+
+}
+
+
+table{
+    width=600px;
+    border: 3px solid red;
+	background-color:olive;
+	color:white;
+    
+}
+td{
+    width:50%;
+    border: 1px solid black;
+}
