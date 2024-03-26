@@ -1,0 +1,27 @@
+AnonID: 1000409647
+Marking TAs:
+    Correctness: Tianyu Zhang
+    Submission Validity: Alireza Isavand
+
+CMPUT 274, Fall 2023
+Marking Guidelines for Weekly Exercise #2 Unfair Dice
+==================================================
+** Correctness (total 90):
+
+    20/20 public test cases passed!
+    4/4 hidden test cases passed! (not for marks)
+
+    [Summary] 90.0/90 (24/24 passed)
+--------------------------------------------------
+** Submission Validity (total 10):
+
+    - README (deduct at most 10 marks)
+
+    [Summary] 10/10
+--------------------------------------------------
+** Late Penalty:
+
+    [Summary] 0
+--------------------------------------------------
+    [Total mark] 100.00/100
+==================================================
