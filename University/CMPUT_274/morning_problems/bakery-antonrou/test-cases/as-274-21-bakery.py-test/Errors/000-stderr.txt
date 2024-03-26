@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/antonr/Desktop/CMPUT_274/morning_problems/bakery-antonrou/soln/bakery.py", line 5, in <module>
+    if(inOven == m or temps[i] > maxTemp):
+NameError: name 'm' is not defined
+
+Expected file "test-cases/as-274-21-bakery.py-test/Expected/000-stderr.txt" has no output file match
