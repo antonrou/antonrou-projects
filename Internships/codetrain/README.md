@@ -11,7 +11,7 @@ For the CSA repository, I created the "Main.java" file and the "Library.java" fi
 https://replit.com/@antonroupassov1/CSAAllUnits
 
 
-For the Package 3 repository, I created an HTML file for each coding example that provides an explanation and demonstration of each coding example, as well as the "index.html" and the "indexstyle.css" files. Again, I made sure each example worked and fixed its code if it didn't so that it ran as intended. The files can be found here:
+For the Package 3 repository, I created an HTML file that provides an explanation and demonstration of each coding example, as well as the "index.html" and the "indexstyle.css" files. Again, I made sure each example worked and fixed its code if it didn't so that it ran as intended. The files can be found here:
 https://replit.com/@antonroupassov1/AllUnitsTeacher
 
 
