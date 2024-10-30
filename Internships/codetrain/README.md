@@ -1,4 +1,4 @@
-In June 2022, the summer before Grade 12, I worked under the guidance of Dr. Macdonell, a professor at MacEwan University, and Mr. Couprie, a teacher with Edmonton Public Schools. I developed a parent class to manage all teaching examples for the Alberta Computer Science 20 and 30 curriculum for the professional development company CODETRAIN. Additionally, I designed the HTML webpage using JavaScript, Java, and HTML.
+In June 2022, the summer before Grade 12, Dr. Cameron Macdonell, a Computer Science professor at MacEwan University, and Mr. Scott Couprie, a teacher at Edmonton Public Schools, contracted me to develop software for CODETRAIN, a professional development company. My work included creating a Java parent class to manage teaching examples for the Alberta Computer Science 20 and 30 curriculum and designing an HTML webpage using JavaScript, Java, and HTML.
 
 Link to Teaching Examples sites:
 https://docs.google.com/document/d/132O1epc7qCv83M2Va4gc3v_du_P4TvCMgqa4KiSIIuc/edit
