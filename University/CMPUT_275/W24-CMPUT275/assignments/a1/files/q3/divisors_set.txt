@@ -1,0 +1,4 @@
+divisorTest1.in
+		 divisorTest2.in
+divisorTest3.in  	divisorTest4.in
+divisorTest5.in divisorTest6.in
