@@ -1,4 +1,4 @@
-In June 2022, the summer before Grade 12, Dr. Cameron Macdonell, a Computer Science professor at MacEwan University, and Mr. Scott Couprie, a teacher at Edmonton Public Schools, contracted me to develop software for CODETRAIN, an organization they founded providing computer science resources to high school teachers across Alberta. I created repositories holding teaching examples for teachers to access for both the "CSA" and the "Package 3" programs that CODETRAIN provides. These lesson plans can be found at the following links:
+In June 2022, the summer before Grade 12, Dr. Cameron Macdonell, a Computer Science professor at MacEwan University, and Mr. Scott Couprie, a teacher at Edmonton Public Schools, contracted me to develop software for CODETRAIN, an organization they founded providing computer science resources to high school teachers across Alberta. I created repositories holding teaching examples for teachers to access for both the "CSA" and the "Package 3" curriculums that CODETRAIN provides. These lesson plans can be found at the following links:
 
 CSA:
 https://docs.google.com/document/d/1WM8a6Z-dZJDMZFbvYwRu-wbEm9rYirrjmKYEWo__BFU/edit?tab=t.0
