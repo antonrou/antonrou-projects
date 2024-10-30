@@ -9,4 +9,10 @@ https://docs.google.com/document/d/1BX6AqKy0mZ_YsavtatmDBCQqQCTeDKztZCv9C7PQnn0/
 
 https://docs.google.com/document/d/1MPhNWeFno-7RWHaKZ4VlBPt54V6ZfvJsXoxA3YXbWwE/edit
 
+Files I directly created:
+
+https://replit.com/@CoupriePublic/CSAAllUnits#Main.java
+
+https://replit.com/@CoupriePublic/AllUnitsTeacher#index.html=1
+
 Project Supervisor: Dr. Cameron Macdonell | cameron.macdonell@macewan.ca, Mr. Scott Couprie | scott.couprie@epsb.ca
